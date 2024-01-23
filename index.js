@@ -5,8 +5,8 @@ const [, , operacion, ...restoArgumentos] = process.argv;
 const argumentosCadena = restoArgumentos.join(' ');
 
 if (operacion === 'registrar') {
-  const [nombre, edad, tipo, color, enfermedad] = argumentosCadena.split(' ');
-  operaciones.registrarCita({ nombre, edad, tipo, color, enfermedad });
+  const [nombre, edad, animal, color, enfermedad] = argumentosCadena.split(' ');
+  operaciones.registrarCita({ nombre, edad, animal, color, enfermedad });
 } else if (operacion === 'leer') {
   operaciones.leerCitas();
 } else {

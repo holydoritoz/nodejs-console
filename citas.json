@@ -2,15 +2,15 @@
   {
     "nombre": "Niggy",
     "edad": "7",
-    "tipo": "años",
-    "color": "perro",
-    "enfermedad": "marron"
+    "animal": "perro",
+    "color": "blanco",
+    "enfermedad": "hemorragia"
   },
   {
     "nombre": "Kayla",
-    "edad": "4",
-    "tipo": "años",
-    "color": "perro",
-    "enfermedad": "blanco"
+    "edad": "3",
+    "animal": "gato",
+    "color": "marron",
+    "enfermedad": "otitis"
   }
 ]
