@@ -1,0 +1,16 @@
+[
+  {
+    "nombre": "Niggy",
+    "edad": "7",
+    "tipo": "años",
+    "color": "perro",
+    "enfermedad": "marron"
+  },
+  {
+    "nombre": "Kayla",
+    "edad": "4",
+    "tipo": "años",
+    "color": "perro",
+    "enfermedad": "blanco"
+  }
+]
